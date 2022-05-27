@@ -6,4 +6,4 @@
 
 ![SCORM в Moodle](isr4.1.png)
 
-![SCORM в Moodle](/lr/lr3-preview1.png)
+![SCORM в Moodle](../lr/lr3-preview1.png)
